@@ -1,2 +1,2 @@
 # flappy_bird
-Just Flappy Bird
+Just Flappy Bird. Uses Pygame.
